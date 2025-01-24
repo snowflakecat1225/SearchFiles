@@ -4,7 +4,7 @@
     {
         private static readonly List<string> _searchResults = new();
 
-        private static void SearchFile(string directory, string fileName)
+        /*private static void SearchFile(string directory, string fileName)
         {
             var fullPath = Path.Combine(directory, fileName);
             
@@ -25,7 +25,7 @@
                     Console.WriteLine(ex.Message);
                 }
             }
-        }
+        }*/
 
         public static void Main()
         {
