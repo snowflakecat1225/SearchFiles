@@ -29,10 +29,23 @@
 
         public static void Main()
         {
-            SearchFile("/home/" + Environment.UserName, "Full_of_cookies.png"); //to check results of the program
+            /*SearchFile("/home/" + Environment.UserName, "Full_of_cookies.png"); //to check results of the program
 
             foreach (var result in _searchResults)
-                Console.WriteLine(result);
+                Console.WriteLine(result);*/
+            
+            string directory = "/";
+            try
+            {
+                foreach (var file in Directory.EnumerateFiles(directory, "ffmpeg", SearchOption.AllDirectories))
+                {
+                    Console.WriteLine(file);
+                }
+            }
+            catch
+            {
+                //to be honest i don't care :P
+            }
         }
     }
 }
