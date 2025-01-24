@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iURuuCtSaqb/WARvPX6YCw8d4FtBRrpe/stfFqXK9cJUsgQZhisGGppLaSGrEyUhcDhjoWiFkVsQRiC0NSh+Gw==",
+  "success": true,
+  "projectFilePath": "/home/snowflakecat/Documents/Programs/SearchFiles/SearchFiles.csproj",
+  "expectedPackageFiles": [
+    "/home/snowflakecat/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

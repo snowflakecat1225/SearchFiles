@@ -1,0 +1,15 @@
+/home/snowflakecat/Documents/Programs/SearchFiles/bin/Debug/net6.0/SearchFiles
+/home/snowflakecat/Documents/Programs/SearchFiles/bin/Debug/net6.0/SearchFiles.deps.json
+/home/snowflakecat/Documents/Programs/SearchFiles/bin/Debug/net6.0/SearchFiles.runtimeconfig.json
+/home/snowflakecat/Documents/Programs/SearchFiles/bin/Debug/net6.0/SearchFiles.dll
+/home/snowflakecat/Documents/Programs/SearchFiles/bin/Debug/net6.0/ref/SearchFiles.dll
+/home/snowflakecat/Documents/Programs/SearchFiles/bin/Debug/net6.0/SearchFiles.pdb
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/SearchFiles.csproj.AssemblyReference.cache
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/SearchFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/SearchFiles.AssemblyInfoInputs.cache
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/SearchFiles.AssemblyInfo.cs
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/SearchFiles.csproj.CoreCompileInputs.cache
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/SearchFiles.dll
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/ref/SearchFiles.dll
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/SearchFiles.pdb
+/home/snowflakecat/Documents/Programs/SearchFiles/obj/Debug/net6.0/SearchFiles.genruntimeconfig.cache
